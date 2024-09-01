@@ -19,7 +19,7 @@ This project aims to analyze Diwali sales data to:
 
 The dataset used in this analysis contains information about Diwali sales. It includes the following columns:
 
--User_ID:Unique number for each customer.
+User_ID:Unique number for each customer.
 Cust_name:Name of a customer.
 Product_ID:ID of a Product bought by customer.
 Gender:Male/Female.
