@@ -19,16 +19,16 @@ This project aims to analyze Diwali sales data to:
 
 The dataset used in this analysis contains information about Diwali sales. It includes the following columns:
 
--User_ID:Unique number for each customer
--Cust_name:Name of a customer
--Product_ID:ID of a Product bought by customer
--Gender:Male/Female
--Age Group:Range of age group of a customer 
--Age:Exact Age
--Martial_status:single(0)/Married(1)
--State:Residence State
--Amount:Price of a product
--Others-->product_category,Orders
+-User_ID:Unique number for each customer.
+-Cust_name:Name of a customer.
+-Product_ID:ID of a Product bought by customer.
+-Gender:Male/Female.
+-Age Group:Range of age group of a customer.
+-Age:Exact Age.
+-Martial_status:single(0)/Married(1).
+-State:Residence State.
+-Amount:Price of a product.
+-Others-->product_category,Orders.
 
 ## The EDA involves the following steps:
 
